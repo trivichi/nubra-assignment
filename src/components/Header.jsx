@@ -20,7 +20,7 @@ const Header = ({ currentSlide, totalSlides, slideTitle, setCurrentSlide }) => {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <img 
-                src="/nubralogo.webp" 
+                src="https://pbs.twimg.com/profile_images/1879770823848017920/ET56LXBP_400x400.jpg" 
                 alt="Nubra Logo" 
                 className="h-8 w-auto"
               />
